@@ -53,7 +53,7 @@ Setup Instructions
 Follow these steps to set up and run the project locally:
 1. Clone the Repository
 Clone the project from GitHub:
-git clone https://github.com/YOUR_USERNAME/CodeGuideAI.git
+git clone https://github.com/DevisrinivasK/ai-code-reviewer.git
 cd CodeGuideAI
 
 Replace YOUR_USERNAME with your GitHub username.
